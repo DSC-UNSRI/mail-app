@@ -1,4 +1,4 @@
-# Mail Service GDSC Unsri
+# Mail Service GDGoC: UNSRI
 
 ## Installation
 

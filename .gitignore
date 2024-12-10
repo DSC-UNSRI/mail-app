@@ -1,4 +1,10 @@
 events/*
 !events/building-web-app
 node_modules
-.env
+.env*
+!.env.example
+*.zip
+*.rar
+*.tar.gz
+
+index.js.backup

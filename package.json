@@ -1,6 +1,6 @@
 {
-  "name": "mail-service",
-  "version": "1.0.0",
+  "name": "mail-service-gdg-unsri",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,9 @@
     "dotenv": "^16.0.1",
     "googleapis": "^104.0.0",
     "handlebars": "^4.7.7",
+    "mail-service": "file:",
+    "mail-service-gdg": "file:",
+    "mail-service-gdg-unsri": "file:",
     "nodemailer": "^6.7.5"
   }
 }
